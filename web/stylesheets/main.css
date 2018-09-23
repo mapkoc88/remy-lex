@@ -3,9 +3,16 @@
   color: white;
   padding-bottom: 80px;
 }
-h1{
+h1 {
   color: red;
 }
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
 .jumbotron .btn-primary {
   background: #845ac7;
   border-color: #845ac7;
