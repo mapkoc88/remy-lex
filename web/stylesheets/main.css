@@ -6,9 +6,9 @@
 h1 {
   color: red;
 }
-.nav{
-  display: flex;
-  align-items: center;
+.col-sm-8{
+  font-family: "Samyak Devanagari","Tibetan Machine Uni";
+  font-size: 14px;
 }
 .jumbotron .btn-primary {
   background: #845ac7;
