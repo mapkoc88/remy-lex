@@ -6,7 +6,10 @@
 h1 {
   color: red;
 }
-
+.nav{
+  display: flex;
+  align-items: center;
+}
 .jumbotron .btn-primary {
   background: #845ac7;
   border-color: #845ac7;
