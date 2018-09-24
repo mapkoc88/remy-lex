@@ -8,6 +8,21 @@
   margin-left: auto;
   margin-right: auto;
 }
+th{
+  color: blue;
+}
+.table{
+  text-align: center;
+}
+.top{
+  text-align: center;
+}
+h2{
+  padding-top: 20px;
+}
+.table{
+  padding-top: 10px;
+}
 .nav-link {
   font-family:"cursive","DejaVu Sans";
   font-size: 24px;
